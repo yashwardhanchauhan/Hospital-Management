@@ -1,0 +1,89 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000!important;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link logo {
+  color: white;
+  font-size: 21px;
+}
+
+.navbar-dark .navbar-nav .nav-link logo {
+  font-size: 21px;
+}
+
+.navbar-dark .navbar-nav .nav-link logo {
+  font-size: 21px;
+  line-height: 0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 13px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.songs {
+  padding-top: 100px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.songs h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.songs h3 {
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.songs .links {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.songs .links .click-to-listen {
+  margin-right: 40px;
+}
+
+.songs.hindi {
+  background-color: black;
+  color: white;
+}
+
+.songs.hindi a {
+  color: white;
+}
+
+.songs.english {
+  background-color: #a29494;
+  color: black;
+}
+
+.songs.english a {
+  color: rgb(0,0,0);
+}
+
+.songs-small {
+  height: 400px;
+  padding-top: 50px;
+  text-align: center;
+  margin: 0 10px 10px 10px;
+  color: white;
+}
+
+.songs-small h3 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.songs-small h4 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
